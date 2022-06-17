@@ -1,4 +1,6 @@
 # BUS-RESERVATION-SYATEM
+AYON BHATTACHARYA
+RA2111003010224
 OBJECTIVE:-
 This is Bus Reservation System, which provided a lot of facility to theiruser.The objective and scope of my Project Bus Reservation System is to record the details various activities of user. It will simplifies the task and reduse the paper work. During implementation every user will be given appropriate training to suit their specific needs. Specific support will also be provided at key points within the academic calendar. Training will be provided on atimely basis, and you will be trained as the new is Bus Reservation System rolled out to your area of responsibility.At the moment we are in the very early stages, so it is difficult to put a specific time on the training, but we will keep people informed as plans are developed.The system is very user friendly and it is anticipated that functions of the system will be easily accessed by administrators, academics, students and applicants. Hence the resevation system for the Bus reservation has been designed to remove all the deficiency from which the present system is suffering and to ensure.
 PROBLEM DEFINITION:-
